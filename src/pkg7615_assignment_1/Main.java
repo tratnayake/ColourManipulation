@@ -64,6 +64,7 @@ public class Main {
             }      
     }
     
+    
    
     private static void fakeSunset(Picture pictureObj){
         //Show the original picture
@@ -76,6 +77,10 @@ public class Main {
         pictureObj.show();
     }
     
+    //JUSTIN: Add your method in here pl0x.
+    private static void greyscale(Picture pictureObj){
+        
+    }
     
     private static void negative(Picture pictureObj){
         //Show the original picture
